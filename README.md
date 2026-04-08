@@ -55,7 +55,7 @@ GitHub
 
 ## Evidence
 
-Screenshots of commands and outputs are stored in the **Screenshots** folder.
+Screenshots of commands and outputs are stored in the **ISEA screenshots** folder.
 
 ---
 
